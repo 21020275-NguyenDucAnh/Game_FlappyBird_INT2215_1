@@ -20,17 +20,17 @@ Các đối tượng trong game:
 
 Cần nắm được các class trong game:
 
- -Một lớp chứa các thuộc tính chung, các hàm khởi tạo ban đầu (CommonFunc.h)
+ -Một lớp chứa các thuộc tính chung, các hàm khởi tạo ban đầu (CommonFunction.h)
  
  -Đối tượng tổng, các đối tượng sau đều kế thừa từ đối tượng này (BaseObject)
  
- -Nhân vật chính - chú chim (PlayerObject)
+ -Nhân vật chính - chú chim (Bird)
  
- -Đối tượng chướng ngại vật (BlockObject)
+ -Đối tượng chướng ngại vật (Barrier)
  
- -Lớp có chức năng load text lên screen (TextObject)
+ -Lớp có chức năng load text lên screen (Text)
  
- -Lớp đếm thời gian (ImpTimer)
+ -Lớp đếm thời gian (Timer)
 
 Link youtube: https://www.youtube.com/watch?v=dpWd1_WQrX4
  
