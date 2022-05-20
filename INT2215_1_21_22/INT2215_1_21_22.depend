@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1653036044 source:d:\game\gamesdlc++\int2215_1_21_22\main.cpp
+	"CommonFunction.h"
+	"Bird.h"
+	"Timer.h"
+	"Barrier.h"
+
+1653033212 source:d:\game\gamesdlc++\int2215_1_21_22\baseobject.cpp
+	"BaseObject.h"
+
+1653033212 d:\game\gamesdlc++\int2215_1_21_22\baseobject.h
+	"CommonFunction.h"
+
+1653033212 d:\game\gamesdlc++\int2215_1_21_22\commonfunction.h
+	<windows.h>
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"Text.h"
+	"BaseObject.h"
+
+1653033212 d:\game\gamesdlc++\int2215_1_21_22\text.h
+	"CommonFunction.h"
+
+1653033212 source:d:\game\gamesdlc++\int2215_1_21_22\commonfunction.cpp
+	"CommonFunction.h"
+
+1653033212 source:d:\game\gamesdlc++\int2215_1_21_22\timer.cpp
+	"Timer.h"
+	"CommonFunction.h"
+
+1653033212 d:\game\gamesdlc++\int2215_1_21_22\timer.h
+
+1653033221 source:d:\game\gamesdlc++\int2215_1_21_22\text.cpp
+	"Text.h"
+
+1653035209 source:d:\game\gamesdlc++\int2215_1_21_22\bird.cpp
+	"Bird.h"
+
+1653035200 d:\game\gamesdlc++\int2215_1_21_22\bird.h
+	"CommonFunction.h"
+
+1653035689 d:\game\gamesdlc++\int2215_1_21_22\barrier.h
+	"CommonFunction.h"
+
+1653036044 source:d:\game\gamesdlc++\int2215_1_21_22\barrier.cpp
+	"Barrier.h"
+
