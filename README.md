@@ -33,4 +33,6 @@ Cần nắm được các class trong game:
  -Lớp đếm thời gian (Timer)
 
 Link youtube: https://www.youtube.com/watch?v=dpWd1_WQrX4
+
+Tham khảo trên: lazyfoo.net và Phát triển phần mềm 123az
  
